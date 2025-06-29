@@ -7,8 +7,3 @@ void print(){
     cout << "hello world";
 }
 
-
-/*int main() {
-    print()
-}
-    */
