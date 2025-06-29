@@ -1,1 +1,1 @@
-# library-management
+Computer workshop project
